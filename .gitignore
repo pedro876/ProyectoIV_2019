@@ -81,3 +81,11 @@ ProyectoUnreal/Saved/Config/CrashReportClient/UE4CC-Windows-741BDAED48EDA0C48C5B
 ProyectoUnreal/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 ProyectoUnreal/Saved/Logs/ProyectoUnreal-backup-2019.11.24-08.59.14.log
 ProyectoUnreal/Saved/Logs/ProyectoUnreal.log
+*.log
+*.bin
+ProyectoUnreal/Saved/Logs/ProyectoUnreal.log
+ProyectoUnreal/Saved/Config/CrashReportClient/UE4CC-Windows-78221F8F42501FE9172F9EA827084E85/CrashReportClient.ini
+ProyectoUnreal/Saved/AutoScreenshot.png
+ProyectoUnreal/Intermediate/CachedAssetRegistry.bin
+*.log
+*.bin
