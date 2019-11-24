@@ -75,3 +75,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+ProyectoUnreal/Intermediate/CachedAssetRegistry.bin
+ProyectoUnreal/Saved/AutoScreenshot.png
+ProyectoUnreal/Saved/Config/CrashReportClient/UE4CC-Windows-741BDAED48EDA0C48C5B549418E93795/CrashReportClient.ini
+ProyectoUnreal/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+ProyectoUnreal/Saved/Logs/ProyectoUnreal-backup-2019.11.24-08.59.14.log
+ProyectoUnreal/Saved/Logs/ProyectoUnreal.log
